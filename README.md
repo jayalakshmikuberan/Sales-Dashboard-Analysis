@@ -56,3 +56,9 @@ Files Included
  Conclusion
 
 This project demonstrates how raw sales data can be transformed into meaningful insights using Power BI dashboards, enabling better business decisions.
+
+## Business Insights
+- Technology products generated the highest revenue
+- Certain regions showed lower profitability despite high sales
+- Seasonal sales trends helped identify peak business periods
+- KPI dashboards improved decision-making visibility
